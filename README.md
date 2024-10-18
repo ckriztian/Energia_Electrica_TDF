@@ -1,10 +1,10 @@
 # Predicción del consumo de Energía Eléctrica en TDF
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
+![Energía_Eléctrica_TDF](../Energia_Electrica_TDF/reports/figures/banner_flat1.jpg)
 
 El principal objetivo de este modelo de Aprendizaje Automático es predecir el consumo total de energía eléctrica en la provincia de Tierra del Fuego.
+
+<img>
 
 ## Project Organization
 
@@ -56,6 +56,8 @@ El principal objetivo de este modelo de Aprendizaje Automático es predecir el c
     │
     └── plots.py                <- Code to create visualizations
 ```
-
+<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
+    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
+</a>
 --------
 
