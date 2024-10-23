@@ -8,7 +8,9 @@ El principal objetivo de este modelo de Aprendizaje Automático es predecir el c
 
 ## Características del Dataset 
 Dataset: 15_3_01_Energia_electrica_consumida_por_tipo_usuario-5.xlsx 
+
 El dataset está compuesto por las siguientes variables: 
+
 • Periodo: Fecha o intervalo temporal durante el cual se mide el consumo de 
 energía. 
 • Total: Consumo total de energía en kilovatios hora (kWh). 
