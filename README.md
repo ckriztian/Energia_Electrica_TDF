@@ -4,7 +4,30 @@
 
 El principal objetivo de este modelo de Aprendizaje Automático es predecir el consumo total de energía eléctrica en la provincia de Tierra del Fuego.
 
-<img>
+
+
+## Características del Dataset 
+Dataset: 15_3_01_Energia_electrica_consumida_por_tipo_usuario-5.xlsx 
+El dataset está compuesto por las siguientes variables: 
+• Periodo: Fecha o intervalo temporal durante el cual se mide el consumo de 
+energía. 
+• Total: Consumo total de energía en kilovatios hora (kWh). 
+• Tipo de usuario: Categorización de los usuarios según el nivel de demanda 
+y tipo de consumo, incluyendo: 
+o Grandes Demandas 
+o Medianas Demandas 
+o Uso Residencial 
+o Uso General 
+o Alumbrado Público 
+Tipo de datos: Datos numéricos (consumo energético) y categóricos (periodo).
+
+
+
+
+
+
+
+
 
 ## Project Organization
 
