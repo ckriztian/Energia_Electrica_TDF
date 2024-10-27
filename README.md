@@ -24,7 +24,7 @@ ___
 Para una descripción detallada del dataset, incluyendo la cantidad de instancias, características (columnas), tipos de datos, y el origen del dataset, consultar el siguiente link:
  [Descripción y características del Dataset](https://github.com/ckriztian/Energia_Electrica_TDF/blob/main/docs/README.md) 
 ___
-### Autores y Reconocimientos
+### *Autores y Reconocimientos*
 - **Vera Quijano Cristian E.** - Desarrollador Principal - (https://github.com/ckriztian/)
 - **Mirabete Martin** - Docente y asesor del proyecto
 
