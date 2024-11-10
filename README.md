@@ -13,6 +13,8 @@ Tierra del Fuego es una de las provincias más australes del mundo, lo que impli
 Además, la provincia posee un perfil económico orientado a la industria manufacturera, con grandes y medianas demandas energéticas en fábricas y empresas de servicios, lo cual contribuye a la complejidad del problema energético. Dado que Tierra del Fuego está aislada del sistema interconectado nacional, su capacidad de generación y distribución eléctrica debe ser cuidadosamente administrada para evitar costos adicionales o el riesgo de cortes energéticos.
 
 Relevancia Local y Motivación La elección de este problema se debe a su relevancia estratégica para la región. La optimización del consumo energético no solo tiene un impacto directo en el costo operativo para industrias y usuarios residenciales, sino que también puede ayudar a las autoridades locales a planificar de manera más eficiente la distribución de la energía. Esto es particularmente importante en una provincia donde la energía tiene un costo elevado debido a su lejanía de los principales centros de generación del país.
+
+[Abstract - Machine Learning Model](https://github.com/ckriztian/Energia_Electrica_TDF/blob/main/references/Abstract.pdf)
 ___
 ### *Preguntas de Investigación:*
 - ¿Es posible predecir con precisión el consumo de energía eléctrica en Tierra del Fuego utilizando técnicas de aprendizaje automático?
