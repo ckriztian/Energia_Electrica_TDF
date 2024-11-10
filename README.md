@@ -97,7 +97,6 @@ SVR fue el peor modelo, con un R² negativo, lo que indica que no fue capaz de c
 
 
 
-
 ## Project Organization
 
 ```
@@ -152,5 +151,5 @@ SVR fue el peor modelo, con un R² negativo, lo que indica que no fue capaz de c
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
---------
+---
 
