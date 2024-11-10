@@ -33,27 +33,27 @@ ___
 
 ***R² Score (Coeficiente de Determinación):***
 - Linear Regression: 0.9871
-- Random Forest: 0.9770
+- Random Forest: 0.9760
 - XGBoost: 0.9673
-- KNN: 0.9702
-- Gradient Boosting: 0.9707
-- SVR: -0.00086
+- KNN: 0.9666
+- Gradient Boosting: 0.9754
+- SVR: -0.0352
 
 ***MAE (Mean Absolute Error):***
 - Linear Regression: 593311
-- Random Forest: 753411
+- Random Forest: 771443
 - XGBoost: 954526
-- KNN: 972831
-- Gradient Boosting: 964853
-- SVR: 5313085
+- KNN: 896625
+- Gradient Boosting: 804154
+- SVR: 5426058
 
 ***MSE (Mean Squared Error):***
 - Linear Regression: 509935476251.80
-- Random Forest: 908937827897.05
+- Random Forest: 950467966355.14
 - XGBoost: 1294538785682.28
-- KNN: 1295405283402.43
-- Gradient Boosting: 1274124230904.82
-- SVR: 43627417287942.08
+- KNN: 1325128449014.10
+- Gradient Boosting: 973322234764.92
+- SVR: 41082866774206.5
 
 ---
 
