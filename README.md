@@ -31,33 +31,37 @@ ___
 - **Mirabete Martin** - Docente y asesor del proyecto
 
 ___
-### *Resultados y Conclusiones*
 
+## Resultados:
 ***R² Score (Coeficiente de Determinación):***
-- Linear Regression: 0.9871
-- Random Forest: 0.9760
-- XGBoost: 0.9673
+- Linear Regression: 0.9872
+- Random Forest: 0.9744
+- XGBoost: 0.9674
 - KNN: 0.9666
-- Gradient Boosting: 0.9754
+- Gradient Boosting: 0.9757
 - SVR: -0.0352
 
+------------------------------
+
 ***MAE (Mean Absolute Error):***
-- Linear Regression: 593311
-- Random Forest: 771443
-- XGBoost: 954526
-- KNN: 896625
-- Gradient Boosting: 804154
-- SVR: 5426058
+- Linear Regression: 593311.02
+- Random Forest: 814488.45
+- XGBoost: 954526.14
+- KNN: 896625.47
+- Gradient Boosting: 798374.24
+- SVR: 5426058.08
 
 ***MSE (Mean Squared Error):***
-- Linear Regression: 509935476251.80
-- Random Forest: 950467966355.14
-- XGBoost: 1294538785682.28
+- Linear Regression: 509935476251.78
+- Random Forest: 1014417384702.14
+- XGBoost: 1294538785682.29
 - KNN: 1325128449014.10
-- Gradient Boosting: 973322234764.92
-- SVR: 41082866774206.5
+- Gradient Boosting: 963058374881.40
+- SVR: 41082866774206.50
 
 ---
+
+## Conclusiones:
 
 1. ¿Es posible predecir con precisión el consumo de energía eléctrica en Tierra del Fuego utilizando técnicas de aprendizaje automático?
 
