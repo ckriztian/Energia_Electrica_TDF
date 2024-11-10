@@ -18,7 +18,18 @@ y tipo de consumo, incluyendo:
 - **Uso General**: Corresponde a la cantidad de energía eléctrica facturada por la población usuaria de alumbrado público en la Provincia de Tierra del Fuego,categoría que aplica a clientes con uso final no residencial (usos comerciales, industriales, servicios, oficiales, etc.) y cuya demanda máxima de potencia no supere los 10 kW.
 - **Alumbrado Público**: Son aquellos usuarios que utilizan la energía eléctrica con la finalidad de iluminar espacios de dominio público. El alumbrado público de las Ciudades de Ushuaia y Tolhuin no se mide, se calcula en función de la cantidad de lámparas instaladas y horas de funcionamiento.
 
-*Tipo de datos*: Datos numéricos (consumo energético) y categóricos (periodo).
+*Tipo de datos*:
+
+| Variable | Tipo de Dato | 
+|----------|----------|
+| Año    | int64   | 
+| Meses    | float64   | 
+| Total    | float64   | 
+| Grandes Demandas    | float64   | 
+| Medianas Demandas    | float64   | 
+| Uso Residencial    | float64   | 
+| Uso General    | float64   | 
+| Alumbrado Público    | float64   | 
 
 *Fuente:* Dirección Provincial de Energía Ushuaia y Cooperativa Eléctrica y Otros Servicios Públicos Ltda.
 (https://ipiec.tierradelfuego.gob.ar/)

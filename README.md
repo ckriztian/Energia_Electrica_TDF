@@ -28,6 +28,70 @@ ___
 - **Vera Quijano Cristian E.** - Desarrollador Principal - (https://github.com/ckriztian/)
 - **Mirabete Martin** - Docente y asesor del proyecto
 
+___
+### *Resultados y Conclusiones*
+
+***R² Score (Coeficiente de Determinación):***
+- Linear Regression: 0.9871
+- Random Forest: 0.9770
+- XGBoost: 0.9673
+- KNN: 0.9702
+- Gradient Boosting: 0.9707
+- SVR: -0.00086
+
+***MAE (Mean Absolute Error):***
+- Linear Regression: 593311
+- Random Forest: 753411
+- XGBoost: 954526
+- KNN: 972831
+- Gradient Boosting: 964853
+- SVR: 5313085
+
+***MSE (Mean Squared Error):***
+- Linear Regression: 509935476251.80
+- Random Forest: 908937827897.05
+- XGBoost: 1294538785682.28
+- KNN: 1295405283402.43
+- Gradient Boosting: 1274124230904.82
+- SVR: 43627417287942.08
+
+---
+
+1. ¿Es posible predecir con precisión el consumo de energía eléctrica en Tierra del Fuego utilizando técnicas de aprendizaje automático?
+
+Sí, es posible predecir el consumo de energía eléctrica con buena precisión. El mejor rendimiento lo obtuvo el modelo de Regresión Lineal, con un R² de 0.987, lo que indica que el modelo explica el 98.7% de la variabilidad en el consumo total de energía. Aunque otros modelos como Random Forest y XGBoost también mostraron resultados aceptables, la Regresión Lineal destacó como el modelo más preciso.
+
+---
+
+2. ¿Qué características, como tipo de usuario y periodo, tienen mayor impacto en el consumo de energía eléctrica?
+
+En este análisis, las características utilizadas fueron:
+
+- Grandes Demandas
+- Uso Residencial
+- Uso General
+- Año (con un impacto negativo)
+
+De acuerdo con los coeficientes del modelo de Regresión Lineal, Grandes Demandas fue la característica con mayor influencia positiva en el consumo total de energía, seguida por Uso Residencial y Uso General. Sin embargo, se observó un coeficiente negativo para la variable Año, lo que indica una posible tendencia a la baja en el consumo a medida que pasan los años, después de un período de crecimiento.
+
+---
+
+3. ¿Existen tendencias de crecimiento o decrecimiento en el consumo energético a lo largo de los años?
+
+Según la visualización de la tendencia de consumo de energía eléctrica en Tierra del Fuego, se observa una tendencia general al crecimiento a lo largo de los años. Aunque hay periodos donde el consumo disminuye, estas bajas son temporales y no afectan la tendencia alcista predominante. El pico histórico de consumo se alcanzó en el año 2022, lo cual podría estar asociado a factores específicos como condiciones climáticas extremas, un aumento en la actividad industrial o cambios en el comportamiento de los usuarios.
+
+---
+
+4. ¿Cuál es el rendimiento comparativo de diferentes algoritmos de aprendizaje automático en la predicción de consumo de energía eléctrica por tipo de usuario?
+Los modelos evaluados mostraron el siguiente rendimiento:
+
+Regresión Lineal fue el mejor, con un R² de 0.987, un MAE más bajo de 593,311, y un MSE de 509,935,476,251.
+Random Forest también mostró un buen rendimiento, pero con un R² más bajo (0.977) y un mayor MAE (753,412).
+XGBoost y Gradient Boosting presentaron resultados similares con R² cercanos a 0.97, pero con mayor error absoluto (MAE) comparado con la Regresión Lineal.
+KNN tuvo un rendimiento similar al de XGBoost, pero levemente inferior.
+SVR fue el peor modelo, con un R² negativo, lo que indica que no fue capaz de capturar la relación entre las variables predictoras y el consumo total.
+
+---
 
 
 
@@ -87,5 +151,6 @@ ___
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
+
 --------
 
