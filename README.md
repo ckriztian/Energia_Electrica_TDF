@@ -44,12 +44,12 @@ ___
 ------------------------------
 
 ***MAE (Mean Absolute Error):***
-- Linear Regression: 593311.02
-- Random Forest: 814488.45
-- XGBoost: 954526.14
-- KNN: 896625.47
-- Gradient Boosting: 798374.24
-- SVR: 5426058.08
+- Linear Regression: 593311.02 = 1.40%
+- Random Forest: 814488.45 = 1.92%
+- XGBoost: 954526.14 = 2.25%
+- KNN: 896625.47 = 2.11%
+- Gradient Boosting: 798374.24 = 1.88%
+- SVR: 5426058.08 = 12.81%
 
 ***MSE (Mean Squared Error):***
 - Linear Regression: 509935476251.78
