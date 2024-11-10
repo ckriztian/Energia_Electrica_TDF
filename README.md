@@ -27,7 +27,7 @@ Para una descripción detallada del dataset, incluyendo la cantidad de instancia
  [Descripción y características del Dataset](https://github.com/ckriztian/Energia_Electrica_TDF/blob/main/docs/README.md) 
 ___
 ### *Autores y Reconocimientos*
-- **Vera Quijano Cristian E.** - Desarrollador Principal - (https://github.com/ckriztian/)
+- **Vera Quijano Cristian E.** - Desarrollador Principal
 - **Mirabete Martin** - Docente y asesor del proyecto
 
 ___
