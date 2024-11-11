@@ -32,7 +32,7 @@ ___
 
 ___
 
-## Resultados:
+### Resultados:
 ***R² Score (Coeficiente de Determinación):***
 - Linear Regression: 0.9872
 - Random Forest: 0.9744
@@ -61,7 +61,7 @@ ___
 
 ---
 
-## Conclusiones:
+### Conclusiones:
 
 1. ¿Es posible predecir con precisión el consumo de energía eléctrica en Tierra del Fuego utilizando técnicas de aprendizaje automático?
 
@@ -91,7 +91,7 @@ Según la visualización de la tendencia de consumo de energía eléctrica en Ti
 4. ¿Cuál es el rendimiento comparativo de diferentes algoritmos de aprendizaje automático en la predicción de consumo de energía eléctrica por tipo de usuario?
 Los modelos evaluados mostraron el siguiente rendimiento:
 
-Regresión Lineal fue el mejor, con un R² de 0.987, un MAE más bajo de 593,311, y un MSE de 509,935,476,251.
+Regresión Lineal fue el mejor, con un R² de 0.987, un MAE más bajo de 1.40%, y un MSE de 509,935,476,251.
 Random Forest también mostró un buen rendimiento, pero con un R² más bajo (0.977) y un mayor MAE (753,412).
 XGBoost y Gradient Boosting presentaron resultados similares con R² cercanos a 0.97, pero con mayor error absoluto (MAE) comparado con la Regresión Lineal.
 KNN tuvo un rendimiento similar al de XGBoost, pero levemente inferior.
