@@ -14,6 +14,9 @@ Además, la provincia posee un perfil económico orientado a la industria manufa
 
 Relevancia Local y Motivación La elección de este problema se debe a su relevancia estratégica para la región. La optimización del consumo energético no solo tiene un impacto directo en el costo operativo para industrias y usuarios residenciales, sino que también puede ayudar a las autoridades locales a planificar de manera más eficiente la distribución de la energía. Esto es particularmente importante en una provincia donde la energía tiene un costo elevado debido a su lejanía de los principales centros de generación del país.
 
+---
+[Link del video-presentación](https://youtu.be/WNQCU6luxpc)
+---
 [Abstract - Machine Learning Model](https://github.com/ckriztian/Energia_Electrica_TDF/blob/main/references/Abstract.pdf)
 ___
 ### *Preguntas de Investigación:*
