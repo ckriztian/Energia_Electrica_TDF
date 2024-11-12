@@ -66,7 +66,7 @@ ___
 
 ### Reporte y Conclusiones finales:
 
-[Resultados y Conclusiones](/docs/Reporte%20de%20Resultados.md)
+### [Resultados y Conclusiones](/docs/Reporte%20de%20Resultados.md)
 
 ---
 
