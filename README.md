@@ -17,8 +17,9 @@ Relevancia Local y Motivación La elección de este problema se debe a su releva
 ---
 ### [Abstract - Machine Learning Model](https://github.com/ckriztian/Energia_Electrica_TDF/blob/main/references/Abstract.pdf)
 ---
-### [Link del video-presentación](https://youtu.be/WNQCU6luxpc)
+### [Link del video-presentación](https://youtu.be/AbETn8jT4tM)
 ___
+
 ### *Preguntas de Investigación:*
 - ¿Es posible predecir con precisión el consumo de energía eléctrica en Tierra del Fuego utilizando técnicas de aprendizaje automático?
 - ¿Qué características, como tipo de usuario y periodo tienen mayor impacto en el consumo de energía eléctrica?  
