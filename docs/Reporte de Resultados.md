@@ -98,12 +98,17 @@ SVR fue el peor modelo, con un R² negativo, lo que indica que no fue capaz de c
 
 ---
 
+Evaluación de Modelos: Predicciones frente a Valores Reales
 ![Energía_Eléctrica_TDF](/references/Grafico1.png)
 
+Curvas de Aprendizaje: Comparativa entre Modelos
 ![Energía_Eléctrica_TDF](/references/Grafico2.png)
 
+Gráfico de Residuos para los Modelos de Predicción
 ![Energía_Eléctrica_TDF](/references/Grafico3.png)
 
+Interpretación de Coeficientes de Regresión Lineal
 ![Energía_Eléctrica_TDF](/references/Grafico4.png)
 
+Visualización de la Tendencia de Consumo a lo Largo del Tiempo
 ![Energía_Eléctrica_TDF](/references/Grafico5.png)
