@@ -98,3 +98,12 @@ SVR fue el peor modelo, con un R² negativo, lo que indica que no fue capaz de c
 
 ---
 
+![Energía_Eléctrica_TDF](/references/Grafico1.png)
+
+![Energía_Eléctrica_TDF](/references/Grafico2.png)
+
+![Energía_Eléctrica_TDF](/references/Grafico3.png)
+
+![Energía_Eléctrica_TDF](/references/Grafico4.png)
+
+![Energía_Eléctrica_TDF](/references/Grafico5.png)
