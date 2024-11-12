@@ -97,3 +97,4 @@ KNN tuvo un rendimiento similar al de XGBoost, pero levemente inferior.
 SVR fue el peor modelo, con un R² negativo, lo que indica que no fue capaz de capturar la relación entre las variables predictoras y el consumo total.
 
 ---
+
